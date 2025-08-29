@@ -1,6 +1,7 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
+
 -----
 
 ### Introduce me
@@ -10,6 +11,7 @@
    </div>
    <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
+
 -----
 
 ### 🤝🏻 &nbsp;Connect with Me
