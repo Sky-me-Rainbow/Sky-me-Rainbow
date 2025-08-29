@@ -17,8 +17,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <div align="center" width="100%">
-   <a href="mailto:rain.bow.yellow.ace@gmail.com"><img src="https://img.shields.io/badge/-rain.bow.yellow.ace@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
    <img src = "https://komarev.com/ghpvc/?username=Sky-me-Rainbow&style=plastic&color=blueviolet" alt = "Profile Views"/>
+   <a href="mailto:rain.bow.yellow.ace@gmail.com"><img src="https://img.shields.io/badge/-rain.bow.yellow.ace@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
 -----
