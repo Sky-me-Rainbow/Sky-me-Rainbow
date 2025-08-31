@@ -7,7 +7,7 @@
 ### Introduce me
 <div width="100%">
    <div width="45%">
-      
+      <h3>I am a blockchain developer with Strong Experience</h3>
    </div>
    <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
